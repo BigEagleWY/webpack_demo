@@ -1,0 +1,24 @@
+{
+  "name": "webpack_demo",
+  "version": "1.0.0",
+  "description": "webpack学习项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigEagleWY/webpack_demo.git"
+  },
+  "author": "daying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BigEagleWY/webpack_demo/issues"
+  },
+  "homepage": "https://github.com/BigEagleWY/webpack_demo#readme",
+  "dependencies": {
+    "css-loader": "^0.28.1",
+    "style-loader": "^0.17.0",
+    "webpack": "^2.5.1"
+  }
+}
